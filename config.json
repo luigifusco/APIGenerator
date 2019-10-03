@@ -1,0 +1,15 @@
+{
+    "max_string_length": 30,
+    "min_string_length": 10,
+    "n_entities": 3000,
+    "n_min_entities": 500,
+    "n_relations": 50,
+    "n_commands": 100000,
+    "probabilities": {
+        "addrel": 0.59,
+        "delrel": 0.2,
+        "delent": 0.01,
+        "report": 0.2
+    },
+    "output_file": "in.txt"
+}
